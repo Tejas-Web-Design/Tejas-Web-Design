@@ -41,11 +41,7 @@ Welcome to **Tejas Web Design** – Crafting modern, responsive websites and bui
 
 ---
 
-## 📊 GitHub Stats
-![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejaswebdesign&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswebdesign&layout=compact&theme=tokyonight)
 
----
 
 ## 🌐 Connect with Me
 - 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/tejasri-konidena-9a222028b)  
