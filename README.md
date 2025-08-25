@@ -44,7 +44,7 @@ Welcome to **Tejas Web Design** – Crafting modern, responsive websites and bui
 
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/tejasri-konidena-9a222028b)  
+- 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/tejasri-konidena)  
 - 📧 Email: **tejasrikonidena@gmail.com**  
   
 
