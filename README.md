@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 I'm Tejas!  
+# 👋 I'm Tejasri!  
 
 Welcome to **Tejas Web Design** – Crafting modern, responsive websites and building Java-based web applications.  
 
